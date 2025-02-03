@@ -1,6 +1,6 @@
 # 🤖 AIBOY - Open Source AI Voice Agent
 
-![AIBOY Banner] ![ai (6)](https://github.com/user-attachments/assets/6c2a15de-2652-4c2b-985c-9709639c679b)
+ ![ai (6)](https://github.com/user-attachments/assets/6c2a15de-2652-4c2b-985c-9709639c679b)
 
 
 ## 🌟 Overview
